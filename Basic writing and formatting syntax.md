@@ -23,7 +23,7 @@ To format code or text into its own distinct block, use triple backticks
 
 百度的网址[百度一下](https://www.baidu.com/)
 
-![头像](image/伍六七.jpg)
+![](image/伍六七.jpg.wideth=10)
 
 - 呵呵
 - 嘿嘿
